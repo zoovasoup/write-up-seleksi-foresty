@@ -1,5 +1,6 @@
-# nama
+# Cropped Top
 **Author:** sn0wden
+
 **Difficulty:** Easy banget asli no fek fek
 
 ---

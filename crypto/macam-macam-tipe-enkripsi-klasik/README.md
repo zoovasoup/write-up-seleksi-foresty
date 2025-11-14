@@ -1,5 +1,6 @@
-# nama
+# Macam-macam Tipe Enkripsi Klasik
 **Author:** Tuzals
+
 **Difficulty:** medium-hard
 
 ---

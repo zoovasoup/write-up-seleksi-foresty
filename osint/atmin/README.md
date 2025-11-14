@@ -1,5 +1,6 @@
-# nama
+# Atmin
 **Author:** BBayuGt
+
 **Difficulty:** Easy-Medium
 
 ---

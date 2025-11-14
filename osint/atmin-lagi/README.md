@@ -1,5 +1,6 @@
-# nama
+# Atmin Lagi
 **Author:** BBayuGt
+
 **Difficulty:** Easy
 
 ---

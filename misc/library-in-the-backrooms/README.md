@@ -1,5 +1,6 @@
-# Library in the backrooms
+# Library in The Backrooms
 **Author:** Bbayugt
+
 **Difficulty:** -
 
 ---
